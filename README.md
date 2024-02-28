@@ -12,16 +12,24 @@ Don't get me wrong, they aren't bad, but some of them didn't look great (especia
 
 ![Grovyle](https://media.discordapp.net/attachments/1074354433368018995/1212241268164399144/image.png?ex=65f11ea8&is=65dea9a8&hm=fc860b180aa0fa12fac1f8927fc81b3ac27e4b986dc7e33670f951028ddee4e9&=&format=webp&quality=lossless&width=684&height=468)
 
-![enter image description here](https://media.discordapp.net/attachments/1074354433368018995/1212241607118688286/image.png?ex=65f11ef9&is=65dea9f9&hm=c4ef70728b7d59a581948dcc64203f31b287cfa5d29665e3581cbe31d50d5eea&=&format=webp&quality=lossless&width=687&height=472)
+![Claydol](https://media.discordapp.net/attachments/1074354433368018995/1212241607118688286/image.png?ex=65f11ef9&is=65dea9f9&hm=c4ef70728b7d59a581948dcc64203f31b287cfa5d29665e3581cbe31d50d5eea&=&format=webp&quality=lossless&width=687&height=472)
 
 When FRLG released, a lot of Gen 1 sprites (+ Teddiursa) were redone with more accurate colors and better modeled sprites. However those sprites never returned in Emerald.
 
 ## The Plan
 My plan is to recolor every Gen 2 and 3 Pokémon Sprite in Emerald to make them look as they do in future game's sprites (especifically HGSS or BW). For Gen 1, i'm doing the same thing but using the FRLG sprites instead, making a new 2nd frame animation for them (but some of them will be reused from Emerald if the sprites are similar). 
 
+![Sentret2](https://media.discordapp.net/attachments/1074354433368018995/1212242114734333972/image.png?ex=65f11f72&is=65deaa72&hm=a94be9b21f684559047bf6012bee8087e94b172223debe4c05a7bd4fa800da2c&=&format=webp&quality=lossless&width=685&height=408)
+
+![Hoothoot2](https://media.discordapp.net/attachments/1074354433368018995/1212242114734333972/image.png?ex=65f11f72&is=65deaa72&hm=a94be9b21f684559047bf6012bee8087e94b172223debe4c05a7bd4fa800da2c&=&format=webp&quality=lossless&width=685&height=408)
+
+![Grovyle2](https://media.discordapp.net/attachments/1074354433368018995/1212242114734333972/image.png?ex=65f11f72&is=65deaa72&hm=a94be9b21f684559047bf6012bee8087e94b172223debe4c05a7bd4fa800da2c&=&format=webp&quality=lossless&width=685&height=408)
+
+![Claydol2](https://media.discordapp.net/attachments/1074354433368018995/1212242114734333972/image.png?ex=65f11f72&is=65deaa72&hm=a94be9b21f684559047bf6012bee8087e94b172223debe4c05a7bd4fa800da2c&=&format=webp&quality=lossless&width=685&height=408)
+
 I use Advance Pokémon Sprite Editor to change said sprites, if you want, feel free to use them.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg1NzgwNTE5LC04NDEyMDc5MDEsMTk4ND
-QyMDY5Nl19
+eyJoaXN0b3J5IjpbODQ0Njg3OTksLTg0MTIwNzkwMSwxOTg0ND
+IwNjk2XX0=
 -->
