@@ -28,8 +28,3 @@ My plan is to recolor every Gen 2 and 3 Pokémon Sprite in Emerald to make them 
 ![Claydol2](https://media.discordapp.net/attachments/1074354433368018995/1212242114734333972/image.png?ex=65f11f72&is=65deaa72&hm=a94be9b21f684559047bf6012bee8087e94b172223debe4c05a7bd4fa800da2c&=&format=webp&quality=lossless&width=685&height=408)
 
 I use Advance Pokémon Sprite Editor to change said sprites, if you want, feel free to use them.
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ0Njg3OTksLTg0MTIwNzkwMSwxOTg0ND
-IwNjk2XX0=
--->
