@@ -21,10 +21,11 @@ My plan is to recolor every Gen 2 and 3 Pokémon Sprite in Emerald to make them 
 
 ![Sentret2](https://media.discordapp.net/attachments/1074354433368018995/1212242114734333972/image.png?ex=65f11f72&is=65deaa72&hm=a94be9b21f684559047bf6012bee8087e94b172223debe4c05a7bd4fa800da2c&=&format=webp&quality=lossless&width=685&height=408)
 
-![Hoothoot2](https://media.discordapp.net/attachments/1074354433368018995/1212242114734333972/image.png?ex=65f11f72&is=65deaa72&hm=a94be9b21f684559047bf6012bee8087e94b172223debe4c05a7bd4fa800da2c&=&format=webp&quality=lossless&width=685&height=408)
+![Hoothoot2](https://media.discordapp.net/attachments/1074354433368018995/1212242177913004102/image.png?ex=65f11f81&is=65deaa81&hm=ff13a9f2749811476486d4288f5212ca3f250a1b7cb851563942219cd0489643&=&format=webp&quality=lossless&width=687&height=410)
 
-![Grovyle2](https://media.discordapp.net/attachments/1074354433368018995/1212242114734333972/image.png?ex=65f11f72&is=65deaa72&hm=a94be9b21f684559047bf6012bee8087e94b172223debe4c05a7bd4fa800da2c&=&format=webp&quality=lossless&width=685&height=408)
+![Grovyle2](https://media.discordapp.net/attachments/1074354433368018995/1212242290446438430/image.png?ex=65f11f9c&is=65deaa9c&hm=37521612b178d4e25384ee78e8b82e21e3a987e8b7bfedc58289434a13b7a00c&=&format=webp&quality=lossless&width=687&height=405)
 
-![Claydol2](https://media.discordapp.net/attachments/1074354433368018995/1212242114734333972/image.png?ex=65f11f72&is=65deaa72&hm=a94be9b21f684559047bf6012bee8087e94b172223debe4c05a7bd4fa800da2c&=&format=webp&quality=lossless&width=685&height=408)
+![Claydol2](https://media.discordapp.net/attachments/1074354433368018995/1212242366396629002/image.png?ex=65f11fae&is=65deaaae&hm=e7ee05da70f9eae61f48e9845ee3341f6e45cb0400149427198740f967592e60&=&format=webp&quality=lossless&width=685&height=407)
 
 I use Advance Pokémon Sprite Editor to change said sprites, if you want, feel free to use them.
+
