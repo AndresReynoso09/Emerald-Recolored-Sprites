@@ -4,7 +4,7 @@
 
 Generation 3 is a fan favorite, it introduced a lot of mechanics that still remain to this day, like abilities, IVs, double battles, etc. Although a personal complaint i always had with them were the sprites.
 
-Don't get me wrong, they aren't bad, but some of them didn't look great (especially were highly miscolored due to the original GBA's terrible screens. Here are a few examples.
+Don't get me wrong, they aren't bad, but some of them didn't look great (especially on the expressions), or were highly miscolored due to the original GBA's terrible screens. Here are a few examples.
 
 
 
@@ -16,5 +16,5 @@ My plan is to recolor every Gen 2 and 3 Pokémon Sprite in Emerald to make them 
 I use Advance Pokémon Sprite Editor to change said sprites, if you want, feel free to use them.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc3NTE1Mjg4LDE5ODQ0MjA2OTZdfQ==
+eyJoaXN0b3J5IjpbLTg0MTIwNzkwMSwxOTg0NDIwNjk2XX0=
 -->
