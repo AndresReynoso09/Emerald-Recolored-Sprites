@@ -7,9 +7,10 @@ Don't get me wrong, they aren't bad, but some of them were highly miscolored due
 
 When FRLG released, a lot of Gen 1 sprites (+ Teddiursa) were redone with more accurate colors and better modeled sprites. However those sprites never returned in Emerald.
 
-That's why i wanted to make this project, to recolor every Gen 2 and 3 Pokemon Sprite in Emerald to make them look as they do in future game's sprites (especifically HGSS or BW). For Gen 1, i'm doing the same thing but using the FRLG sprites instead, making a new 2nd frame animation for them (but some of them will be reused from Emerald if the sprites are similar)
+That's why i wanted to make this project, to recolor every Gen 2 and 3 Pokémon Sprite in Emerald to make them look as they do in future game's sprites (especifically HGSS or BW). For Gen 1, i'm doing the same thing but using the FRLG sprites instead, making a new 2nd frame animation for them (but some of them will be reused from Emerald if the sprites are similar). 
 
-This is a personal project where i recolor all Gen 2 and 3 Pokemon Sprites from Emerald and make a custom 2nd frame animation for the FRLG sprites so it could be used in Emerald. Feel free to use if you want to.
+I use Advance Pokémon Sprite Editor to change said sprites, if you want, feel free to use them
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxOTQwNzAzLDE5ODQ0MjA2OTZdfQ==
+eyJoaXN0b3J5IjpbLTI1Mzk2MTE5OSwxOTg0NDIwNjk2XX0=
 -->
