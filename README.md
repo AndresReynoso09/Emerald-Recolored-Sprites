@@ -3,10 +3,12 @@ I've been a Pokémon fan for a long time, with Gen 3 being one of my absolute fa
 
 Don't get me wrong, they aren't bad, but some of them were highly miscolored due to the original GBA's terrible screens. Here are a few examples.
 
-Left: Original Sprite || Right: Custom mGBA Shader that mimics the original GBA screen
-![Sentret](https://media.discordapp.net/attachments/1043005531381583893/1212232475779145798/image.png?ex=65f11678&is=65dea178&hm=a41a665ad2a4853c209fc1c5906164164759726ad32fb161be305548ca713d62&=&format=webp&quality=lossless&width=626&height=340)
+|Pokémon| Original Sprite |Custom mGBA Shader that mimics the original GBA screen|
+|Sentret |--|--|
+|  |  |--|
+
 
 This is a personal project where i recolor all Gen 2 and 3 Pokemon Sprites from Emerald and make a custom 2nd frame animation for the FRLG sprites so it could be used in Emerald. Feel free to use if you want to.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNjA3Njc3NywxOTg0NDIwNjk2XX0=
+eyJoaXN0b3J5IjpbMTA0MjA4MDA4LDE5ODQ0MjA2OTZdfQ==
 -->
