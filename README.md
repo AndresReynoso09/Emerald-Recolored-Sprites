@@ -1,8 +1,8 @@
 # Recolored Pokémon Emerald Sprites
 
-##Introduction
+## Introduction
 
-I've been a Pokémon fan for a long time, with Gen 3 being one of my absolute favorites. There are a lot of improvements Gen 3 did to the franchise like the abilities, IVs, etc. Although something that bugged me a lot were the Pokémon Sprites.
+Generation 3 is a fan favorite, it introduced a lot of mechanics that still remain to this day, like abilities, IVs, 
 
 Don't get me wrong, they aren't bad, but some of them were highly miscolored due to the original GBA's terrible screens. Here are a few examples.
 
@@ -16,5 +16,5 @@ My plan is to recolor every Gen 2 and 3 Pokémon Sprite in Emerald to make them 
 I use Advance Pokémon Sprite Editor to change said sprites, if you want, feel free to use them.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5ODAyOTMwOSwxOTg0NDIwNjk2XX0=
+eyJoaXN0b3J5IjpbMjEyODg5ODczNiwxOTg0NDIwNjk2XX0=
 -->
