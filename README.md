@@ -8,7 +8,7 @@ Don't get me wrong, they aren't bad, but some of them didn't look great (especia
 
 ![Sentret](https://media.discordapp.net/attachments/1074354433368018995/1212240140085239808/image.png?ex=65f11d9b&is=65dea89b&hm=9e575a718e7db22c268f5b5cf98034549cdb238fc6e6278d957ff205db150277&=&format=webp&quality=lossless&width=682&height=481)
 
-
+![Hoothoot](https://media.discordapp.net/attachments/1074354433368018995/1212240684816273494/image.png?ex=65f11e1d&is=65dea91d&hm=b8215be027ebaf309a71b4172e621903f994a0a8c71d29a2a399e50be3d404c6&=&format=webp&quality=lossless&width=685&height=470)
 
 When FRLG released, a lot of Gen 1 sprites (+ Teddiursa) were redone with more accurate colors and better modeled sprites. However those sprites never returned in Emerald.
 
@@ -18,6 +18,6 @@ My plan is to recolor every Gen 2 and 3 Pokémon Sprite in Emerald to make them 
 I use Advance Pokémon Sprite Editor to change said sprites, if you want, feel free to use them.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU2MjUxMjAwLC04NDEyMDc5MDEsMTk4ND
+eyJoaXN0b3J5IjpbMjc1MjMzNTkzLC04NDEyMDc5MDEsMTk4ND
 QyMDY5Nl19
 -->
